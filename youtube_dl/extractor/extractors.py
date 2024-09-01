@@ -707,6 +707,9 @@ from .mixcloud import (
     MixcloudUserIE,
     MixcloudPlaylistIE,
 )
+
+from .minitv import MiniTVIE
+
 from .mlb import (
     MLBIE,
     MLBVideoIE,
